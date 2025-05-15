@@ -5,6 +5,7 @@ Este é um projeto simples de linha de comando desenvolvido em Python para regis
 ## 🔧 Tecnologias utilizadas
 
 - Python 3.x
+- IDE. googleColab
 - SQLite3 (banco de dados local)
 - Interface por linha de comando (CLI)
 
@@ -15,5 +16,5 @@ Este é um projeto simples de linha de comando desenvolvido em Python para regis
 - ✅ Listar todos os gastos registrados
 - ✅ Calcular e exibir totais por categoria e o total geral
 
-## 📂 Estrutura do Projeto
+
 
